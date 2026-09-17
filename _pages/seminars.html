@@ -1,0 +1,14 @@
+---
+layout: archive
+title: "Seminars"
+permalink: /seminars/
+author_profile: true
+---
+
+{% include base_path %}
+
+Find seminars I am (co-)organizing or have (co-)organized. 
+
+{% for post in site.seminars reversed %}
+  {% include archive-single.html %}
+{% endfor %}
