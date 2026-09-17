@@ -1,5 +1,5 @@
 ---
-title: "Yale Geometry Symmetry and Physics Seminar"
+title: "Yale GRT Seminar"
 collection: seminars
 type: "Seminar"
 permalink: /seminars/2026-grt_seminar
