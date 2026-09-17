@@ -11,5 +11,5 @@ redirect_from:
 
 Education
 ======
-* PhD in Mathematics (in progress), Columbia University, September 2018 - present
+* PhD in Mathematics , Columbia University, May 2024
 * BA in Mathematics, University of North Carolina at Chapel Hill, August 2014- May 2018

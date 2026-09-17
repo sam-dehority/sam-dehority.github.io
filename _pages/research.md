@@ -11,9 +11,12 @@ author_profile: true
 Papers
 ------
 
-- *Toroidal analogues of the Grothendieck-Springer map* Available on *arixv* at [https://arxiv.org/abs/2311.00355](https://arxiv.org/abs/2311.00355)
+- *Orthosymplectic Modules of Cohomolgoical Hall Algebras (with Alyosha Latyntsev) at [https://arxiv.org/abs/2501.06643](https://arxiv.org/abs/2501.06643)
 
-- *Elliptic surfaces and toroidal superalgebras* Available on *arxiv* at [https://arxiv.org/abs/2311.00349](https://arxiv.org/abs/2311.00349)
+
+- *Toroidal analogues of the Grothendieck-Springer map*  at [https://arxiv.org/abs/2311.00355](https://arxiv.org/abs/2311.00355)
+
+- *Elliptic surfaces and toroidal superalgebras*  at [https://arxiv.org/abs/2311.00349](https://arxiv.org/abs/2311.00349)
 
 - *Affinizations of Lorentzian Kac-Moody Algebras and Hilbert Schemes of Points on K3 Surfaces* 
    Available on *arxiv* at [https://arxiv.org/abs/2007.04953](https://arxiv.org/abs/2007.04953)  

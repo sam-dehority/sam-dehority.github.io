@@ -10,13 +10,13 @@ redirect_from:
 About
 -----
 
-I am currently a 6th year Mathematics PhD student at Columbia University. My advisor is [Andrei Okounkov](http://www.math.columbia.edu/~okounkov/). 
+I am currently a Gibbs Assistant Professsor at Yale University. 
 
 I am interested in algebraic geometry, representation theory, and mathematical physics. More specifically I am thinking about enumerative geometry,
-geometric representation theory, toroidal algebras, noncommutative ruled surfaces and Hilbert schemes. 
+geometric representation theory, toroidal algebras, vertex algebras and modular forms. 
 
 This webpage contains links to writing, teaching, and organizational information.
 
 Contact
 -------
-Please contact me by email at [samdehority@math.columbia.edu](mailto:samdehority@math.columbia.edu).
+Please contact me by email at [samuel.dehority@yale.edu](mailto:samuel.dehority@yale.edu).
