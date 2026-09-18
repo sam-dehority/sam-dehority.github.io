@@ -1,6 +1,20 @@
 Invited talks
 
+Workshop on Geometric Representation Theory and Related Topics, TianYuan Math Research Center (Kunming), Aug. 22 2026, Quantum Connection for Moduli of Higgs bundles
 
+Coulomb Branches and Affine Quantum Groups, CIRM (Luminy), Jul. 6-10 2026, The quantum connection for moduli of Higgs bundles https://conferences.cirm-math.fr/3599.html
+
+CUHK Algebra Seminar, The Chinese University of Hong Kong, Mar. 23 2026, Quantum Connection for Moduli of Higgs bundles
+
+Friday Morning Seminar, Shanghai Institute for Mathematics and Interdisciplinary Sciences (SIMIS), Mar. 20 2026, Quantum connection for Higgs bundles
+
+Holomorphic-Topological Field Theories and Representation Theory, Perimeter Institute, Nov. 07 2025, Orientifold Lines and Orthosymplectic Modules https://pirsa.org/25110085
+
+M-Seminar, Kansas State University, Mar. 30, Apr. 1, Apr. 2 2026, Orientifold lines from CoHA modules https://researchseminars.org/seminar/M-seminar
+
+Informal String-Math Seminar, University of California Berkeley, Apr. 21 2025, Quiver folding and cohomological Hall modules
+
+Math-Physics Joint Seminar, University of Pennsylvania, Feb. 18 2025, Orthosymplectic modules for cohomological Hall algebras
 
 Informal Mathematical Physics Seminar, Columbia University, Oct. 2 2023, Vertex Algebras and the quantum connection
 
