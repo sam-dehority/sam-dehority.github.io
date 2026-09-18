@@ -10,7 +10,7 @@ redirect_from:
 About
 -----
 
-I am currently a Gibbs Assistant Professsor at Yale University. 
+I am currently a Gibbs Assistant Professsor at [Yale University](https://math.yale.edu/). 
 
 I am interested in algebraic geometry, representation theory, and mathematical physics. More specifically I am thinking about enumerative geometry,
 geometric representation theory, toroidal algebras, vertex algebras and modular forms. 
