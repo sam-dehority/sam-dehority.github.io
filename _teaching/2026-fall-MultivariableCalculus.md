@@ -3,7 +3,7 @@ title: "Fall 2026 MATH 1200: Multivariable Calculus"
 collection: teaching
 type: "Teaching"
 permalink: /teaching/2026-fall-MultivariableCalculus
-date: 2026-10-27
+date: 2026-10-29
 ---
 
 ### Basic info
@@ -33,4 +33,5 @@ Listed below are the lecture dates, the textbook sections and topics covered, an
 | 13 | Oct 15, 2026 | 16.1-16.2 | Vector fields, scalar line integrals | [Worksheet 13](/files/2026-fall-MultivariableCalculus/ws13.pdf) |
 | 14 | Oct 20, 2026 | 16.2 | Vector line integrals, work | [Worksheet 14](/files/2026-fall-MultivariableCalculus/ws14.pdf) |
 | 15 | Oct 27, 2026 | 16.3 | Conservative vector fields, Fundamental Theorem of Line Integrals | [Worksheet 15](/files/2026-fall-MultivariableCalculus/ws15.pdf) |
+| 15 | Oct 27, 2026 | 16.4 | Green's theorem, calculating areas using Green's tehorem | [Worksheet 16](/files/2026-fall-MultivariableCalculus/ws16.pdf) |
 | | | | | | 
