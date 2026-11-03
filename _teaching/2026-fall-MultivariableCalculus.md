@@ -34,4 +34,5 @@ Listed below are the lecture dates, the textbook sections and topics covered, an
 | 14 | Oct 20, 2026 | 16.2 | Vector line integrals, work | [Worksheet 14](/files/2026-fall-MultivariableCalculus/ws14.pdf) |
 | 15 | Oct 27, 2026 | 16.3 | Conservative vector fields, Fundamental Theorem of Line Integrals | [Worksheet 15](/files/2026-fall-MultivariableCalculus/ws15.pdf) |
 | 16 | Oct 29, 2026 | 16.4 | Green's theorem, calculating areas using Green's theorem | [Worksheet 16](/files/2026-fall-MultivariableCalculus/ws16.pdf) |
+| 17 | Nov 3, 2026 | 16.4-16.5 | Green's theorem (weirder applications), curl | [Worksheet 16](/files/2026-fall-MultivariableCalculus/ws17.pdf) |
 | | | | | | 
