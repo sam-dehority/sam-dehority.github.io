@@ -3,7 +3,7 @@ title: "Fall 2026 MATH 1200: Multivariable Calculus"
 collection: teaching
 type: "Teaching"
 permalink: /teaching/2026-fall-MultivariableCalculus
-date: 2026-10-29
+date: 2026-11-3
 ---
 
 ### Basic info
