@@ -3,7 +3,7 @@ title: "Fall 2026 MATH 1200: Multivariable Calculus"
 collection: teaching
 type: "Teaching"
 permalink: /teaching/2026-fall-MultivariableCalculus
-date: 2026-11-3
+date: 2026-11-11
 ---
 
 ### Basic info
@@ -34,5 +34,8 @@ Listed below are the lecture dates, the textbook sections and topics covered, an
 | 14 | Oct 20, 2026 | 16.2 | Vector line integrals, work | [Worksheet 14](/files/2026-fall-MultivariableCalculus/ws14.pdf) |
 | 15 | Oct 27, 2026 | 16.3 | Conservative vector fields, Fundamental Theorem of Line Integrals | [Worksheet 15](/files/2026-fall-MultivariableCalculus/ws15.pdf) |
 | 16 | Oct 29, 2026 | 16.4 | Green's theorem, calculating areas using Green's theorem | [Worksheet 16](/files/2026-fall-MultivariableCalculus/ws16.pdf) |
-| 17 | Nov 3, 2026 | 16.4-16.5 | Green's theorem (weirder applications), curl | [Worksheet 16](/files/2026-fall-MultivariableCalculus/ws17.pdf) |
+| 17 | Nov 3, 2026 | 16.4-16.5 |  Green’s theorem (more examples), curl | [Worksheet 17](/files/2026-fall-MultivariableCalculus/ws17.pdf) |
+| 18 | Nov 5, 2026 | 16.5-16.6|  Divergence, parametric surfaces | [Worksheet 18](/files/2026-fall-MultivariableCalculus/ws18.pdf) |
+| 19 |Nov 10, 2026 | 16.6 | Tangent spaces, surface area | [Worksheet 19](/files/2026-fall-MultivariableCalculus/ws19.pdf) |
+| 20 | Nov 12, 2026 | 16.7 |  Scalar and vector surface integrals, flux | [Worksheet 20](/files/2026-fall-MultivariableCalculus/ws20.pdf) |
 | | | | | | 
